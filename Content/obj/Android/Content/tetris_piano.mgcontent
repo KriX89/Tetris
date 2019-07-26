@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/kio-8/Desktop/Projekty gry C#/Tetris/Content/tetris_piano.mp3</SourceFile>
+  <SourceTime>2019-07-24T18:26:43.8607085+02:00</SourceTime>
+  <DestFile>C:/Users/kio-8/Desktop/Projekty gry C#/Tetris/Content/bin/Android/Content/tetris_piano.xnb</DestFile>
+  <DestTime>2019-07-24T18:36:29.6832359+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/kio-8/Desktop/Projekty gry C#/Tetris/Content/bin/Android/Content/tetris_piano.m4a</string>
+  </BuildOutput>
+</PipelineBuildEvent>
